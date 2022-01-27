@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WDHelper</name>
+    </assembly>
+    <members>
+        <member name="T:WL.IWDHelperInterface">
+            <summary>
+            
+            (Classe générée avec WINDEV)
+            </summary>
+        </member>
+        <member name="M:WL.IWDHelperInterface.Connexion">
+            <summary>
+            
+            </summary>
+            <returns>
+            
+            </returns>
+        </member>
+        <member name="M:WL.IWDHelperInterface.ReqSQL(System.String)">
+            <summary>
+            
+            </summary>
+            <returns>
+            
+            </returns>
+        </member>
+        <member name="M:WL.IWDHelperInterface.FENClassement">
+            <summary>
+            
+            </summary>
+            <returns>
+            
+            </returns>
+        </member>
+        <member name="M:WL.WDHelper.Connexion">
+            <summary>
+            
+            </summary>
+            <returns>
+            
+            </returns>
+        </member>
+        <member name="M:WL.WDHelper.ReqSQL(System.String)">
+            <summary>
+            
+            </summary>
+            <returns>
+            
+            </returns>
+        </member>
+        <member name="M:WL.WDHelper.FENClassement">
+            <summary>
+            
+            </summary>
+            <returns>
+            
+            </returns>
+        </member>
+    </members>
+</doc>
